@@ -1,5 +1,11 @@
 # PptSlideExtractor
-Create PowerPoint file(s) from slides extracted from PPT files identified in a folder
+Create PowerPoint file(s) from slides extracted from PPT files identified in a folder. 
+
+Slides can be extracted either from a script file or from a GUI. A MATLAB App (GUI), test PPT files and example output can be found in the [release](https://github.com/DennisDean/PptSlideExtractor/releases) section.
+
+Start GUI
+
+    >SlideExtractorFig
 
 
  Input
