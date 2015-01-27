@@ -27,6 +27,16 @@ Start GUI
  Requirements
 
     Tested with Microsoft PowerPoint 2010
+    
+Links
+
+    GitHub
+    https://github.com/DennisDean/PptSlideExtractor
+    
+    Releases
+    https://github.com/DennisDean/PptSlideExtractor/releases
+    
+    
 
  Acknowledgements
 
